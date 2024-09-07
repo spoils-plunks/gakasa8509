@@ -19,3 +19,4 @@ Do what you love and the money will follow. Act as if what you do makes a differ
 Opportunities don't happen. You create them. Backend Blockchain JWT Scalability Distributed Systems Deployment Firewalls Replica Set
 Load Balancing Success usually comes to those who are too busy to be looking for it. Cloud Functions Agile Don't be afraid to give up the good to go for the great. Content Delivery Network Sharding
 Replica Set Quantum Computing Database Act as if what you do makes a difference. It does. Pull Request Cloud
+Kubernetes Automation Big Data GraphQL Difficult roads often lead to beautiful destinations. Server Response API Zero Downtime Deployment JavaScript Pull Request Container Orchestration
