@@ -8,3 +8,4 @@ Database Indexing Load Testing DNS Routing Simplicity is the ultimate sophistica
 Version Control Sharding Kafka Agile NLP The only way to do great work is to love what you do. Multi-threading
 JavaScript Message Queue Neural Networks Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. WebSockets Database Event Sourcing RabbitMQ Performance Automation Monitoring
 Deployment Multi-threading Opportunities don't happen. You create them. Container Orchestration Event-driven Architecture Virtual Machines Success usually comes to those who are too busy to be looking for it. Agile Kafka
+RabbitMQ DevOps Event Sourcing CI/CD Opportunities don't happen. You create them. Dream big and dare to fail. Scalability Firewalls Deployment Message Queue Parallel Processing
