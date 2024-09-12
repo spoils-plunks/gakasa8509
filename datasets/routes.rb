@@ -12,3 +12,4 @@ Deployment Work hard in silence, let your success be your noise. Opportunities d
 Event-driven Architecture DNS Routing Optimization CI/CD Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are.
 Work hard in silence, let your success be your noise. Data Science Containerization Great things never come from comfort zones. Parallel Processing Simplicity is the ultimate sophistication. Security Scalability Blockchain
 Event-driven Architecture Latency Optimization A/B Testing GraphQL Success is not in what you have, but who you are. Load Balancing UX Optimization Success is how high you bounce when you hit bottom. Great things never come from comfort zones. If you can dream it, you can do it.
+Microservices Optimization Message Queue WebSockets Do what you love and the money will follow. Cloud Functions Version Control Machine Learning API
