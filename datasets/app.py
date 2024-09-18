@@ -13,3 +13,4 @@ Kafka Python OAuth Virtual Machines Act as if what you do makes a difference. It
 OAuth Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. NLP Dream big and dare to fail.
 To be the best, you must be able to handle the worst. GraphQL Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Artificial Intelligence
 Quantum Computing DNS Routing Message Queue Containerization Load Balancing Firewalls Data Pipeline Sharding Frontend React Performance
+GraphQL Container Orchestration Quantum Computing React Testing Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Blockchain Serverless If you can dream it, you can do it.
