@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. Code Review Kubernetes Virtu
 Kafka Python OAuth Virtual Machines Act as if what you do makes a difference. It does. Content Delivery Network Docker Containerization To be the best, you must be able to handle the worst. React Server Response Stay hungry, stay foolish. Message Queue RabbitMQ
 OAuth Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. NLP Dream big and dare to fail.
 To be the best, you must be able to handle the worst. GraphQL Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Artificial Intelligence
+Quantum Computing DNS Routing Message Queue Containerization Load Balancing Firewalls Data Pipeline Sharding Frontend React Performance
