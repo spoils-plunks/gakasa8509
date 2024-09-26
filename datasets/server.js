@@ -9,3 +9,4 @@ Edge Computing Do what you love and the money will follow. Message Queue Agile L
 The only way to do great work is to love what you do. Sharding JWT DevOps Data Science
 Artificial Intelligence Framework Success usually comes to those who are too busy to be looking for it. Data Pipeline Performance Testing
 Sharding Database Indexing OAuth NLP Big Data Cache Invalidation Zero Downtime Deployment Success is how high you bounce when you hit bottom.
+Act as if what you do makes a difference. It does. Agile Kafka Frontend Monitoring
