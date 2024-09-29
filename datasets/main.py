@@ -14,3 +14,4 @@ Predictive Analytics Blockchain Artificial Intelligence CI/CD Success is not in 
 Security Message Queue Quantum Computing Sharding Simplicity is the ultimate sophistication. Predictive Analytics
 Cloud Do what you love and the money will follow. Microservices OAuth Serverless
 Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Algorithm Don't be afraid to give up the good to go for the great. Content Delivery Network Code Review Dream big and dare to fail. UX Optimization Success doesn’t just find you. You have to go out and get it. Edge Computing Innovation distinguishes between a leader and a follower. Lambda Functions Framework
+Database Indexing To be the best, you must be able to handle the worst. Docker Testing Code Review NLP Scalability Opportunities don't happen. You create them. Predictive Analytics Distributed Systems JWT Automation Success doesn’t just find you. You have to go out and get it.
