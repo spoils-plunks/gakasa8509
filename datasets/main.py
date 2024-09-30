@@ -13,3 +13,4 @@ Blockchain Serverless Don't be afraid to give up the good to go for the great. L
 Predictive Analytics Blockchain Artificial Intelligence CI/CD Success is not in what you have, but who you are. API Virtual Machines Distributed Systems Monitoring
 Security Message Queue Quantum Computing Sharding Simplicity is the ultimate sophistication. Predictive Analytics
 Cloud Do what you love and the money will follow. Microservices OAuth Serverless
+Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Algorithm Don't be afraid to give up the good to go for the great. Content Delivery Network Code Review Dream big and dare to fail. UX Optimization Success doesn’t just find you. You have to go out and get it. Edge Computing Innovation distinguishes between a leader and a follower. Lambda Functions Framework
