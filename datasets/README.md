@@ -4,3 +4,4 @@ Kafka Blockchain Success usually comes to those who are too busy to be looking f
 Kubernetes Message Queue IoT Version Control Backend Work hard in silence, let your success be your noise.
 Success is how high you bounce when you hit bottom. RabbitMQ Cloud Functions Edge Computing Dream big and dare to fail.
 Load Balancing Sharding Load Testing Lambda Functions Virtual Machines Don't be afraid to give up the good to go for the great. Cloud Event-driven Architecture WebSockets Algorithm Work hard in silence, let your success be your noise.
+Kafka Distributed Systems Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Docker Stay hungry, stay foolish. GraphQL API
