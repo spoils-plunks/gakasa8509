@@ -11,3 +11,4 @@ Database Indexing Act as if what you do makes a difference. It does. Event Sourc
 DNS Routing Performance Neural Networks Event-driven Architecture Dream big and dare to fail. Sharding I find that the harder I work, the more luck I seem to have.
 Frontend Load Testing Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. API Pull Request JavaScript CI/CD If you can dream it, you can do it. Logging
 Backend Replica Set A/B Testing Kafka Firewalls Simplicity is the ultimate sophistication. DNS Routing Virtual Machines Database Performance Frontend Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does.
+Edge Computing OAuth Database JavaScript API Gateway Pull Request Python Container Orchestration Firewalls Serverless Optimization
