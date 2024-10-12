@@ -7,3 +7,4 @@ Great things never come from comfort zones. JWT NLP GraphQL Backend Optimization
 Python Data Science Docker Version Control RabbitMQ
 Parallel Processing JWT Machine Learning Database Distributed Systems Edge Computing
 Cache Invalidation Scalability DNS Routing Stay hungry, stay foolish. Serverless Virtual Machines JavaScript Opportunities don't happen. You create them. Parallel Processing
+Success is how high you bounce when you hit bottom. Virtual Machines I find that the harder I work, the more luck I seem to have. CI/CD Success usually comes to those who are too busy to be looking for it. Parallel Processing Serverless Framework Work hard in silence, let your success be your noise. Dream big and dare to fail. Scalability Kafka Sharding Multi-threading JavaScript

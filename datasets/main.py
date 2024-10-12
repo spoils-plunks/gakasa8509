@@ -12,3 +12,4 @@ Python Do what you love and the money will follow. Serverless Difficult roads of
 Blockchain Serverless Don't be afraid to give up the good to go for the great. Latency Optimization Docker Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Testing Security Event Sourcing
 Predictive Analytics Blockchain Artificial Intelligence CI/CD Success is not in what you have, but who you are. API Virtual Machines Distributed Systems Monitoring
 Security Message Queue Quantum Computing Sharding Simplicity is the ultimate sophistication. Predictive Analytics
+Cloud Do what you love and the money will follow. Microservices OAuth Serverless
