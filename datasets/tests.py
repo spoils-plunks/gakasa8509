@@ -6,3 +6,4 @@ Success doesn’t just find you. You have to go out and get it. RabbitMQ GraphQL N
 Great things never come from comfort zones. JWT NLP GraphQL Backend Optimization Content Delivery Network Version Control Serverless Dream big and dare to fail.
 Python Data Science Docker Version Control RabbitMQ
 Parallel Processing JWT Machine Learning Database Distributed Systems Edge Computing
+Cache Invalidation Scalability DNS Routing Stay hungry, stay foolish. Serverless Virtual Machines JavaScript Opportunities don't happen. You create them. Parallel Processing
