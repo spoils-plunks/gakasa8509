@@ -8,3 +8,4 @@ Multi-threading API Gateway Cloud Functions Difficult roads often lead to beauti
 Virtual Machines Act as if what you do makes a difference. It does. Kafka RabbitMQ Containerization Testing Performance GraphQL Dream big and dare to fail. Data Science Version Control Zero Downtime Deployment
 Message Queue NLP Code Review IoT JavaScript React API Cloud Python Security
 Opportunities don't happen. You create them. Code Review Distributed Systems Stay hungry, stay foolish. Pull Request OAuth Load Testing JWT Python To be the best, you must be able to handle the worst. Testing Do what you love and the money will follow.
+Success doesn’t just find you. You have to go out and get it. Pull Request Algorithm Machine Learning Microservices Kafka Success usually comes to those who are too busy to be looking for it. JavaScript React Success is how high you bounce when you hit bottom.
