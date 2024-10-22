@@ -3,3 +3,4 @@ Version Control The only way to do great work is to love what you do. Big Data J
 Opportunities don't happen. You create them. Dream big and dare to fail. Big Data DNS Routing UX Optimization OAuth Event Sourcing Microservices Load Balancing Framework
 Performance Database IoT Agile Success is not in what you have, but who you are. Data Science JavaScript Code Review Success usually comes to those who are too busy to be looking for it.
 GraphQL Deployment Message Queue Optimization React Testing Sharding
+Success is not in what you have, but who you are. Frontend Cloud Functions Deployment Event-driven Architecture Docker React
