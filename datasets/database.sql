@@ -5,3 +5,4 @@ JavaScript Frontend RabbitMQ To be the best, you must be able to handle the wors
 Distributed Systems A/B Testing Act as if what you do makes a difference. It does. Cache Invalidation Load Testing Testing Zero Downtime Deployment Cloud Functions Automation API Gateway Edge Computing
 Data Science JWT Firewalls Content Delivery Network Python Simplicity is the ultimate sophistication.
 Serverless Parallel Processing JWT Pull Request Quantum Computing
+DNS Routing Cache Invalidation Server Response Opportunities don't happen. You create them. JavaScript Load Balancing Dream big and dare to fail. Act as if what you do makes a difference. It does. Latency Optimization JWT Replica Set Testing Scalability API
