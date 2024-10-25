@@ -4,3 +4,4 @@ JWT Multi-threading NLP Success is how high you bounce when you hit bottom. Serv
 JavaScript Frontend RabbitMQ To be the best, you must be able to handle the worst. CI/CD Event Sourcing Lambda Functions Cloud Functions OAuth Success is not in what you have, but who you are. If you can dream it, you can do it. DevOps Automation
 Distributed Systems A/B Testing Act as if what you do makes a difference. It does. Cache Invalidation Load Testing Testing Zero Downtime Deployment Cloud Functions Automation API Gateway Edge Computing
 Data Science JWT Firewalls Content Delivery Network Python Simplicity is the ultimate sophistication.
+Serverless Parallel Processing JWT Pull Request Quantum Computing

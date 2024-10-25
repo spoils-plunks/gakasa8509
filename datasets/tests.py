@@ -5,3 +5,4 @@ Frontend Edge Computing Distributed Systems Big Data Docker Stay hungry, stay fo
 Success doesn’t just find you. You have to go out and get it. RabbitMQ GraphQL Neural Networks Serverless Microservices Scalability
 Great things never come from comfort zones. JWT NLP GraphQL Backend Optimization Content Delivery Network Version Control Serverless Dream big and dare to fail.
 Python Data Science Docker Version Control RabbitMQ
+Parallel Processing JWT Machine Learning Database Distributed Systems Edge Computing

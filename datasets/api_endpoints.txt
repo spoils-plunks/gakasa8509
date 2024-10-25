@@ -6,3 +6,4 @@ Dream big and dare to fail. Parallel Processing Event-driven Architecture Docker
 Blockchain Serverless Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Multi-threading Virtual Machines Message Queue Edge Computing Quantum Computing Automation Load Balancing Backend If you can dream it, you can do it.
 Database Indexing Load Testing DNS Routing Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Event-driven Architecture Backend
 Version Control Sharding Kafka Agile NLP The only way to do great work is to love what you do. Multi-threading
+JavaScript Message Queue Neural Networks Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. WebSockets Database Event Sourcing RabbitMQ Performance Automation Monitoring
