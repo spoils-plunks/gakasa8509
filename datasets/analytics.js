@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. Quantum Computing Event-dr
 Multi-threading API Gateway Cloud Functions Difficult roads often lead to beautiful destinations. A/B Testing If you can dream it, you can do it. GraphQL Serverless Automation Blockchain Optimization Security Backend Frontend
 Virtual Machines Act as if what you do makes a difference. It does. Kafka RabbitMQ Containerization Testing Performance GraphQL Dream big and dare to fail. Data Science Version Control Zero Downtime Deployment
 Message Queue NLP Code Review IoT JavaScript React API Cloud Python Security
+Opportunities don't happen. You create them. Code Review Distributed Systems Stay hungry, stay foolish. Pull Request OAuth Load Testing JWT Python To be the best, you must be able to handle the worst. Testing Do what you love and the money will follow.
