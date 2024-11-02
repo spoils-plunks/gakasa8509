@@ -6,3 +6,4 @@ Data Science Automation Event-driven Architecture Container Orchestration Parall
 The only way to do great work is to love what you do. Quantum Computing Event-driven Architecture Great things never come from comfort zones. Artificial Intelligence Docker Database Content Delivery Network CI/CD Serverless Server Response Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Optimization Load Balancing
 Multi-threading API Gateway Cloud Functions Difficult roads often lead to beautiful destinations. A/B Testing If you can dream it, you can do it. GraphQL Serverless Automation Blockchain Optimization Security Backend Frontend
 Virtual Machines Act as if what you do makes a difference. It does. Kafka RabbitMQ Containerization Testing Performance GraphQL Dream big and dare to fail. Data Science Version Control Zero Downtime Deployment
+Message Queue NLP Code Review IoT JavaScript React API Cloud Python Security

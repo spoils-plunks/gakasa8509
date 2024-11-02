@@ -8,3 +8,4 @@ Container Orchestration Zero Downtime Deployment Framework JavaScript Security W
 Message Queue Big Data Code Review OAuth Replica Set Database Indexing Neural Networks Edge Computing Frontend
 DNS Routing Message Queue Scalability Containerization Cloud JWT Great things never come from comfort zones.
 Success usually comes to those who are too busy to be looking for it. Content Delivery Network Cloud Distributed Systems Database Microservices
+Deployment Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Agile Data Pipeline Security JavaScript Artificial Intelligence
