@@ -17,3 +17,4 @@ Simplicity is the ultimate sophistication. React Predictive Analytics Deployment
 Predictive Analytics Edge Computing Kubernetes Cache Invalidation RabbitMQ JWT Load Testing Work hard in silence, let your success be your noise. Pull Request Docker Success is not in what you have, but who you are. Content Delivery Network Message Queue
 Do what you love and the money will follow. Act as if what you do makes a difference. It does. Monitoring Success is not in what you have, but who you are. Parallel Processing React Framework Message Queue Distributed Systems
 Opportunities don't happen. You create them. Backend Blockchain JWT Scalability Distributed Systems Deployment Firewalls Replica Set
+Load Balancing Success usually comes to those who are too busy to be looking for it. Cloud Functions Agile Don't be afraid to give up the good to go for the great. Content Delivery Network Sharding
