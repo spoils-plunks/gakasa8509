@@ -6,3 +6,4 @@ Do what you love and the money will follow. Replica Set DNS Routing Don't be afr
 JavaScript Docker Algorithm Quantum Computing I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are.
 Event-driven Architecture Zero Downtime Deployment Blockchain Server Response Artificial Intelligence OAuth API Gateway
 Data Pipeline I find that the harder I work, the more luck I seem to have. Performance Kafka The only way to do great work is to love what you do.
+Do what you love and the money will follow. Zero Downtime Deployment Act as if what you do makes a difference. It does. Serverless Event Sourcing Kafka Microservices
