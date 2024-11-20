@@ -5,3 +5,4 @@ Blockchain WebSockets Optimization Happiness is not something ready made. It com
 Containerization API Gateway RabbitMQ API Innovation distinguishes between a leader and a follower. Database
 Big Data Serverless Message Queue Parallel Processing Event Sourcing Data Pipeline WebSockets Load Balancing Blockchain
 IoT Code Review Parallel Processing Event-driven Architecture Artificial Intelligence Lambda Functions Zero Downtime Deployment Latency Optimization Performance Success is not in what you have, but who you are. Database Work hard in silence, let your success be your noise. If you can dream it, you can do it. Success is how high you bounce when you hit bottom.
+Load Balancing RabbitMQ GraphQL Logging Frontend Monitoring Python Don't be afraid to give up the good to go for the great. Server Response Difficult roads often lead to beautiful destinations. Artificial Intelligence
