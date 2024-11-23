@@ -3,3 +3,4 @@ Innovation distinguishes between a leader and a follower. Sharding Framework Mon
 OAuth Edge Computing UX Optimization Agile Success doesn’t just find you. You have to go out and get it. Data Science Distributed Systems Logging Firewalls Pull Request Event Sourcing Docker
 Data Science Success is how high you bounce when you hit bottom. RabbitMQ React Agile Security Algorithm
 Database Indexing Logging GraphQL Performance API Gateway Artificial Intelligence Multi-threading
+Testing Predictive Analytics Agile Dream big and dare to fail. RabbitMQ Act as if what you do makes a difference. It does.
