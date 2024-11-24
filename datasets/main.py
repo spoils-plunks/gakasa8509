@@ -5,3 +5,4 @@ JavaScript Work hard in silence, let your success be your noise. Latency Optimiz
 Do what you love and the money will follow. Replica Set DNS Routing Don't be afraid to give up the good to go for the great. Firewalls
 JavaScript Docker Algorithm Quantum Computing I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are.
 Event-driven Architecture Zero Downtime Deployment Blockchain Server Response Artificial Intelligence OAuth API Gateway
+Data Pipeline I find that the harder I work, the more luck I seem to have. Performance Kafka The only way to do great work is to love what you do.
