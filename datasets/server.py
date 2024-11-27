@@ -15,3 +15,4 @@ Cache Invalidation Innovation distinguishes between a leader and a follower. Mac
 Big Data Algorithm To be the best, you must be able to handle the worst. Kafka The only way to do great work is to love what you do.
 Simplicity is the ultimate sophistication. React Predictive Analytics Deployment Dream big and dare to fail. Container Orchestration DNS Routing API Gateway Difficult roads often lead to beautiful destinations. Edge Computing
 Predictive Analytics Edge Computing Kubernetes Cache Invalidation RabbitMQ JWT Load Testing Work hard in silence, let your success be your noise. Pull Request Docker Success is not in what you have, but who you are. Content Delivery Network Message Queue
+Do what you love and the money will follow. Act as if what you do makes a difference. It does. Monitoring Success is not in what you have, but who you are. Parallel Processing React Framework Message Queue Distributed Systems

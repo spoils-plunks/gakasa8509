@@ -4,3 +4,4 @@ Microservices DNS Routing Blockchain Latency Optimization Scalability Edge Compu
 Opportunities don't happen. You create them. Artificial Intelligence Agile IoT Algorithm Framework
 RabbitMQ WebSockets Great things never come from comfort zones. Firewalls Difficult roads often lead to beautiful destinations. Machine Learning Act as if what you do makes a difference. It does. A/B Testing Version Control Parallel Processing
 Message Queue Microservices NLP Latency Optimization Innovation distinguishes between a leader and a follower. Logging Machine Learning
+Container Orchestration Zero Downtime Deployment Framework JavaScript Security WebSockets Data Science Act as if what you do makes a difference. It does. Edge Computing API Latency Optimization Scalability Docker
