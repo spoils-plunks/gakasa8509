@@ -3,3 +3,4 @@ Kafka API Gateway Difficult roads often lead to beautiful destinations. CI/CD Co
 Quantum Computing Virtual Machines Load Testing Dream big and dare to fail. Scalability A/B Testing Performance Latency Optimization Opportunities don't happen. You create them. JWT
 Blockchain WebSockets Optimization Happiness is not something ready made. It comes from your own actions. Replica Set Firewalls Monitoring Database Success usually comes to those who are too busy to be looking for it. Cloud
 Containerization API Gateway RabbitMQ API Innovation distinguishes between a leader and a follower. Database
+Big Data Serverless Message Queue Parallel Processing Event Sourcing Data Pipeline WebSockets Load Balancing Blockchain
