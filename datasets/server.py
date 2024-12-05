@@ -14,3 +14,4 @@ Predictive Analytics Agile Replica Set Database To be the best, you must be able
 Cache Invalidation Innovation distinguishes between a leader and a follower. Machine Learning Stay hungry, stay foolish. Server Response Parallel Processing React API Cloud Monitoring Simplicity is the ultimate sophistication. Load Testing
 Big Data Algorithm To be the best, you must be able to handle the worst. Kafka The only way to do great work is to love what you do.
 Simplicity is the ultimate sophistication. React Predictive Analytics Deployment Dream big and dare to fail. Container Orchestration DNS Routing API Gateway Difficult roads often lead to beautiful destinations. Edge Computing
+Predictive Analytics Edge Computing Kubernetes Cache Invalidation RabbitMQ JWT Load Testing Work hard in silence, let your success be your noise. Pull Request Docker Success is not in what you have, but who you are. Content Delivery Network Message Queue
