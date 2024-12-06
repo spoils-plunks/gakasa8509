@@ -2,3 +2,4 @@ Act as if what you do makes a difference. It does. WebSockets JavaScript If you 
 API Gateway Edge Computing I find that the harder I work, the more luck I seem to have. Quantum Computing Machine Learning Firewalls Success is not in what you have, but who you are. Kubernetes Algorithm
 Monitoring Backend Stay hungry, stay foolish. Distributed Systems Frontend Testing Quantum Computing Agile RabbitMQ
 Load Balancing Stay hungry, stay foolish. Python Cloud Optimization Neural Networks Opportunities don't happen. You create them. Parallel Processing API Gateway Kafka Docker IoT
+Sharding Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. CI/CD Kubernetes
