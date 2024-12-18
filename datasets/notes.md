@@ -2,3 +2,4 @@ Kafka Serverless I find that the harder I work, the more luck I seem to have. Ha
 Innovation distinguishes between a leader and a follower. Sharding Framework Monitoring Zero Downtime Deployment The only way to do great work is to love what you do. Cloud Functions API Gateway IoT Content Delivery Network Optimization Frontend Microservices
 OAuth Edge Computing UX Optimization Agile Success doesn’t just find you. You have to go out and get it. Data Science Distributed Systems Logging Firewalls Pull Request Event Sourcing Docker
 Data Science Success is how high you bounce when you hit bottom. RabbitMQ React Agile Security Algorithm
+Database Indexing Logging GraphQL Performance API Gateway Artificial Intelligence Multi-threading
