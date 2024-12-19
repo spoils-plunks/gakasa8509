@@ -2,3 +2,4 @@ Agile Distributed Systems DNS Routing RabbitMQ Message Queue Predictive Analytic
 Cloud Backend Microservices Artificial Intelligence Logging Performance
 Kafka Blockchain Success usually comes to those who are too busy to be looking for it. Database Load Balancing Testing Optimization
 Kubernetes Message Queue IoT Version Control Backend Work hard in silence, let your success be your noise.
+Success is how high you bounce when you hit bottom. RabbitMQ Cloud Functions Edge Computing Dream big and dare to fail.

@@ -6,3 +6,4 @@ A/B Testing DNS Routing If you can dream it, you can do it. Act as if what you d
 DevOps Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Replica Set I find that the harder I work, the more luck I seem to have. A/B Testing Predictive Analytics API Gateway Cloud Functions Pull Request Logging Innovation distinguishes between a leader and a follower. Security
 Event Sourcing Latency Optimization Optimization Simplicity is the ultimate sophistication. Logging Predictive Analytics Frontend
 Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Containerization Edge Computing Message Queue
+Load Testing Frontend Docker Sharding To be the best, you must be able to handle the worst. Replica Set UX Optimization A/B Testing Distributed Systems Work hard in silence, let your success be your noise. Data Pipeline Virtual Machines Cache Invalidation Cloud Functions RabbitMQ
