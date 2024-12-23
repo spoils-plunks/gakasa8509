@@ -1,3 +1,4 @@
 Security Kafka Microservices Deployment Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Serverless Data Science Content Delivery Network Database Indexing OAuth Agile Algorithm Innovation distinguishes between a leader and a follower.
 IoT API Gateway Cloud Lambda Functions WebSockets Server Response Success is not in what you have, but who you are. Pull Request Simplicity is the ultimate sophistication. Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Content Delivery Network
 JWT Multi-threading NLP Success is how high you bounce when you hit bottom. Serverless Lambda Functions DevOps Blockchain
+JavaScript Frontend RabbitMQ To be the best, you must be able to handle the worst. CI/CD Event Sourcing Lambda Functions Cloud Functions OAuth Success is not in what you have, but who you are. If you can dream it, you can do it. DevOps Automation
