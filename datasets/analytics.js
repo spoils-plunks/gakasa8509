@@ -1,3 +1,4 @@
 Container Orchestration DevOps Content Delivery Network Great things never come from comfort zones. Firewalls Kafka Success usually comes to those who are too busy to be looking for it. Neural Networks RabbitMQ DNS Routing
 Serverless Code Review Database Indexing Frontend Blockchain Replica Set GraphQL
 Lambda Functions IoT Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Testing Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. API DNS Routing API Gateway Act as if what you do makes a difference. It does.
+Sharding Container Orchestration GraphQL Neural Networks DNS Routing Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Multi-threading Big Data
