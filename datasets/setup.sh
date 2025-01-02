@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. Docker To 
 Virtual Machines Success is how high you bounce when you hit bottom. Replica Set Monitoring Security OAuth Lambda Functions Load Balancing Cloud Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Microservices
 A/B Testing DNS Routing If you can dream it, you can do it. Act as if what you do makes a difference. It does. Event Sourcing Lambda Functions Distributed Systems Frontend DevOps Database Indexing
 DevOps Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Replica Set I find that the harder I work, the more luck I seem to have. A/B Testing Predictive Analytics API Gateway Cloud Functions Pull Request Logging Innovation distinguishes between a leader and a follower. Security
+Event Sourcing Latency Optimization Optimization Simplicity is the ultimate sophistication. Logging Predictive Analytics Frontend
