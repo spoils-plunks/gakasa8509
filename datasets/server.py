@@ -8,3 +8,4 @@ DNS Routing Kafka Neural Networks Happiness is not something ready made. It come
 GraphQL Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Great things never come from comfort zones. Neural Networks If you can dream it, you can do it. Pull Request Server Response Quantum Computing Scalability
 Serverless Testing Multi-threading Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise.
 DevOps Database Indexing Containerization Performance Security Agile Framework Quantum Computing Kafka WebSockets Don't be afraid to give up the good to go for the great. CI/CD JavaScript IoT
+Event-driven Architecture Container Orchestration Logging Blockchain Predictive Analytics Parallel Processing Database Indexing
