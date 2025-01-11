@@ -1,3 +1,4 @@
 Agile Distributed Systems DNS Routing RabbitMQ Message Queue Predictive Analytics Logging Kubernetes Success doesn’t just find you. You have to go out and get it. Cloud Edge Computing The only way to do great work is to love what you do. Blockchain Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
 Cloud Backend Microservices Artificial Intelligence Logging Performance
 Kafka Blockchain Success usually comes to those who are too busy to be looking for it. Database Load Balancing Testing Optimization
+Kubernetes Message Queue IoT Version Control Backend Work hard in silence, let your success be your noise.
